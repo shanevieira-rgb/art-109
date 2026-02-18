@@ -76,11 +76,11 @@ main h2 {
     box-shadow: 10px 10px 5px gray;
 }
 
-.portfolio-item image {
+.portfolio-item img {
     max-width: 100%;
     margin: 0 auto;
     display: block;
-    border: .5rem;
+    border: 0.5rem;
 }
 
 .portfolio-item p {
